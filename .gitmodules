@@ -1,0 +1,6 @@
+[submodule "gamej"]
+	path = gamej
+	url = https://github.com/rsninja722/gamej
+[submodule "gradle_scripts"]
+	path = gradle_scripts
+	url = https://github.com/Ewpratten/gradle_scripts/
